@@ -12,7 +12,7 @@
 - Creates a new file with a different inode that stores the path of the original file.
 - Soft links do not increase the link count.
 - They become dangling if the original file is deleted or renamed.
-**Command:**
+- **Command:**
   ```bash
   ln -s file1.txt softlink.txt
   
