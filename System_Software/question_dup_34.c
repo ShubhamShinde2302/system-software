@@ -74,3 +74,11 @@ int main() {
 
     return 0;
 }
+/*
+Output:
+
+shubham@shubham-Nitro-ANV15-52:~/Desktop/system-software/System_Software$ gcc question_dup_34.c -o question34dup
+shubham@shubham-Nitro-ANV15-52:~/Desktop/system-software/System_Software$ ./question34dup
+     47     416    2881
+
+*/
