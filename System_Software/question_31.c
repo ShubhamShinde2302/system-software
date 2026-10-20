@@ -44,3 +44,10 @@ int main() {
 
     return 0;
 }
+
+
+// output :
+// shubham@shubham-Nitro-ANV15-52:~/Desktop/system-software/System_Software$ gcc question_31.c -o question31
+// shubham@shubham-Nitro-ANV15-52:~/Desktop/system-software/System_Software$ ./question31
+// Data written into the pipe successfully.
+// Data received from the pipe: Hello from the pipe!
