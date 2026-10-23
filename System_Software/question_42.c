@@ -61,6 +61,19 @@ int main() {
 
 /* 
 Output :
-
+shubham@shubham-Nitro-ANV15-52:~/Desktop/system-software/System_Software$ gcc question_42.c -o question42
+shubham@shubham-Nitro-ANV15-52:~/Desktop/system-software/System_Software$ ./question42
+Message Queue ID: 0
+Access Permissions: 666
+UID: 1000
+GID: 1000
+Last Message Sent: Thu Jan  1 05:30:00 1970
+Last Message Received: Thu Jan  1 05:30:00 1970
+Last Change in Queue: Sat Oct 24 01:13:34 2026
+Current Queue Size: 0 bytes
+Number of Messages: 0
+Maximum Bytes Allowed: 16384 bytes
+PID of Last msgsnd: 0
+PID of Last msgrcv: 0
 
 */
