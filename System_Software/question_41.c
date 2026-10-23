@@ -29,3 +29,13 @@ int main() {
 
     return 0;
 }
+
+/*
+Output :
+shubham@shubham-Nitro-ANV15-52:~/Desktop/system-software/System_Software$ gcc question_41.c -o question41
+shubham@shubham-Nitro-ANV15-52:~/Desktop/system-software/System_Software$ ./question41
+Message Queue Key: 1090862868
+Message Queue ID: 0
+shubham@shubham-Nitro-ANV15-52:~/Desktop/system-software/System
+
+*/
