@@ -55,10 +55,16 @@ int main() {
 
 /*
 Output :
-shubham@shubham-Nitro-ANV15-52:~/Desktop/system-software/System_Software$ gcc question_43.c -o question43
+shubham@shubham-Nitro-ANV15-52:~/Desktop/system-software$ cd System_Software
 shubham@shubham-Nitro-ANV15-52:~/Desktop/system-software/System_Software$ ./question43
 Enter a message: Shubham
 Message sent successfully!
 Message Queue Key: 1090862868
 Message Queue ID: 0
+shubham@shubham-Nitro-ANV15-52:~/Desktop/system-software/System_Software$ ipcs -q
+
+------ Message Queues --------
+key        msqid      owner      perms      used-bytes   messages    
+0x41053f14 0          shubham    666        8            1           
+
 */
